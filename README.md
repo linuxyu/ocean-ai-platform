@@ -1,3 +1,8 @@
+! INDUSTRIAL AMMUNITION LOADED：
++ Horizon BEV量产验证 | 40%成本削减
++ Spark增量算法专利 | IEEE ICBDA'17
+
+
 # ocean-ai-platform
 # 自适应海洋数据智能分析平台
 
