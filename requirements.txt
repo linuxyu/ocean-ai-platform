@@ -1,0 +1,9 @@
+pandas
+numpy
+geopy
+folium
+plotly
+river
+scikit-learn
+fastdtw
+gym
